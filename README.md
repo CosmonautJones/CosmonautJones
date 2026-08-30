@@ -6,6 +6,10 @@ My main stack is TypeScript, React, Next.js, Node.js, Python, and PostgreSQL. I'
 
 ## Selected work
 
+### [Lumen Garden](https://github.com/CosmonautJones/lumen-garden)
+
+Offline-first idea greenhouse: capture fragments, connect them into projects, and take one focused next action. Local-only React/TypeScript (no accounts or telemetry), with tests, keyboard access, and a [live demo](https://cosmonautjones.github.io/lumen-garden/).
+
 ### [Portfolio](https://github.com/CosmonautJones/Portfolio)
 
 My live Next.js portfolio and interactive project lab. It includes browser tools, a WebGL arcade system, documented architecture, automated tests, and the release process behind [travisjohnjones.com](https://www.travisjohnjones.com).
@@ -14,13 +18,13 @@ My live Next.js portfolio and interactive project lab. It includes browser tools
 
 A local control plane for supervised coding agents. Goals are divided among bounded workers in separate worktrees, verifier loops can reject and retry work, and approval decisions remain visible to the operator.
 
-### [harness-core](https://github.com/CosmonautJones/harness-core)
-
-A TypeScript framework for validating and scoring generated artifacts through bounded iteration. The repository includes a library API, CLI, MCP interface, JSONL run history, and reusable presets.
-
 ### [AI Usage Overlays](https://github.com/CosmonautJones/ai-usage-overlays)
 
 A Windows HUD that normalizes local Claude, Codex, and Cursor usage signals into one compact view. Provider integrations are optional and degrade independently when data is unavailable.
+
+### [The Conductor](https://github.com/CosmonautJones/the-conductor)
+
+A pure-orchestrator skill for ADR-driven implementation: it dispatches specialized subagents, persists run state, and escalates only on a small set of human-gated triggers.
 
 ## How I work
 
