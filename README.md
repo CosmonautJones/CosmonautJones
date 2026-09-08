@@ -8,7 +8,7 @@ Main stack: TypeScript, React, Next.js, Node.js, Python, and PostgreSQL. AI show
 
 ## Selected work
 
-Aligned with the profile pins (Overlays-crowned order):
+Target pin order (Overlays-crowned). Reorder pins on the profile to match — not yet live:
 
 | Project | What it is |
 |--------|------------|
