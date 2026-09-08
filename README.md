@@ -1,30 +1,23 @@
 # Travis Jones
 
-I'm a product-minded full-stack software engineer with an earlier background in electronics and technical operations. I build web products and developer tools, then strengthen them with tests, clear documentation, observable behavior, and deliberate human approval points.
+Software engineer with **8 years** modernizing and shipping enterprise software — full-stack product and systems work at an **Enterprise software vendor**. I build web products and developer tools, then strengthen them with tests, clear documentation, observable behavior, and deliberate human approval points.
 
-My main stack is TypeScript, React, Next.js, Node.js, Python, and PostgreSQL. I'm especially interested in software where correctness, diagnosis, and handoff quality matter: internal tools, product workflows, test automation, and governed agent systems.
+**[Portfolio](https://www.travisjohnjones.com)** · **[Résumé / About](https://www.travisjohnjones.com/about)** · **[Contact](https://www.travisjohnjones.com/contact)** · [LinkedIn](https://www.linkedin.com/in/travis-john-jones/) · [Email](mailto:travisjohn.jones@gmail.com)
+
+Main stack: TypeScript, React, Next.js, Node.js, Python, and PostgreSQL. AI shows up here as a **demonstrated tool** — behind explicit constraints, verification, and human review — not as the job title.
 
 ## Selected work
 
-### [Lumen Garden](https://github.com/CosmonautJones/lumen-garden)
+Aligned with the profile pins (Overlays-crowned order):
 
-Offline-first idea greenhouse: capture fragments, connect them into projects, and take one focused next action. Local-only React/TypeScript (no accounts or telemetry), with tests, keyboard access, and a [live demo](https://cosmonautjones.github.io/lumen-garden/).
-
-### [Portfolio](https://github.com/CosmonautJones/Portfolio)
-
-My live Next.js portfolio and interactive project lab. It includes browser tools, a WebGL arcade system, documented architecture, automated tests, and the release process behind [travisjohnjones.com](https://www.travisjohnjones.com).
-
-### [Mission Control](https://github.com/CosmonautJones/mission-control)
-
-A local control plane for supervised coding agents. Goals are divided among bounded workers in separate worktrees, verifier loops can reject and retry work, and approval decisions remain visible to the operator.
-
-### [AI Usage Overlays](https://github.com/CosmonautJones/ai-usage-overlays)
-
-A Windows HUD that normalizes local Claude, Codex, and Cursor usage signals into one compact view. Provider integrations are optional and degrade independently when data is unavailable.
-
-### [The Conductor](https://github.com/CosmonautJones/the-conductor)
-
-A pure-orchestrator skill for ADR-driven implementation: it dispatches specialized subagents, persists run state, and escalates only on a small set of human-gated triggers.
+| Project | What it is |
+|--------|------------|
+| [AI Usage Overlays](https://github.com/CosmonautJones/ai-usage-overlays) | Always-on-top Windows HUD for Claude, Codex, Cursor, and Grok usage — TravOS portfolio overlay. [Case notes](https://www.travisjohnjones.com/work/ai-usage-overlays) |
+| [Lumen Garden](https://github.com/CosmonautJones/lumen-garden) | Offline-first idea greenhouse: capture fragments, connect them into projects, take one focused next action. [Live demo](https://cosmonautjones.github.io/lumen-garden/) |
+| [whole-page-capture](https://github.com/CosmonautJones/whole-page-capture) | Private, local full-page screenshots from the browser right-click menu |
+| [Portfolio](https://github.com/CosmonautJones/Portfolio) | Interactive Next.js portfolio with product demos, release-readiness tools, and a browser arcade engine — the site behind [travisjohnjones.com](https://www.travisjohnjones.com) |
+| [Members Only Poker Club](https://github.com/CosmonautJones/members-only-poker-club) | Next.js social-club management prototype with member, cashier, and admin workflows backed by Supabase. [Demo](https://members-only-poker-club.vercel.app) |
+| [Mission Control](https://github.com/CosmonautJones/mission-control) | Local control plane for supervised coding agents: bounded worktree teams, verifier loops, approval gates, and auditable run evidence |
 
 ## How I work
 
@@ -36,4 +29,7 @@ A pure-orchestrator skill for ADR-driven implementation: it dispatches specializ
 ## Links
 
 - [Portfolio](https://www.travisjohnjones.com)
+- [About / experience](https://www.travisjohnjones.com/about)
+- [Contact](https://www.travisjohnjones.com/contact)
 - [LinkedIn](https://www.linkedin.com/in/travis-john-jones/)
+- Email: [travisjohn.jones@gmail.com](mailto:travisjohn.jones@gmail.com)
