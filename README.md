@@ -15,7 +15,7 @@ That work taught me to understand the existing system before changing it, invest
 | **[AI Usage Overlays](https://github.com/CosmonautJones/ai-usage-overlays)** | A Windows tray app that puts usage signals from several AI tools in one view. Each provider adapter works independently. |
 | **[Lumen Garden](https://github.com/CosmonautJones/lumen-garden)** | A private notebook for turning an idea into a next action and recording progress. **[Try it without an account](https://cosmonautjones.github.io/lumen-garden/)**. |
 | **[Mission Control](https://github.com/CosmonautJones/mission-control)** | A local dashboard for seeing Claude Code sessions, reviewing approval requests, and keeping a record of decisions. |
-| **[Alembic](https://github.com/CosmonautJones/falling-sand)** | A falling-sand simulation built with TypeScript and Three.js. Paint materials, add heat, and see how the world reacts. Local run instructions and simulation details are in the repository. |
+| **[Alembic](https://github.com/CosmonautJones/falling-sand)** | A falling-sand simulation built with TypeScript and Three.js. Paint materials, add heat, and see how the world reacts. **[Play in your browser](https://cosmonautjones.github.io/falling-sand/)**. |
 
 ## How I work
 
