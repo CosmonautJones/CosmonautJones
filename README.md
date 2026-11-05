@@ -20,11 +20,21 @@ That work taught me to understand existing business behavior before changing it,
 
 For setup, engineering choices, and project scope, start with each repository's README.
 
+## Private projects
+
+- **CursorBuddy:** A Windows screen-and-voice assistant prototype exploring live guidance, on-screen annotations, and local speech tools. *Private project.*
+- **TravOS:** An in-development agent platform focused on governed execution, independent review, and verifiable results. *Private project.*
+
 ## Useful tools
 
 - **[Whole Page Capture](https://github.com/CosmonautJones/whole-page-capture)** saves a full webpage as one PNG in Chrome or Edge. The repository includes an installable release and a plain-language explanation of permissions and limits.
 - **[AI Usage Overlays](https://github.com/CosmonautJones/ai-usage-overlays)** brings usage signals from several AI tools into one Windows tray app. Each provider adapter works independently.
 - **[Mission Control](https://github.com/CosmonautJones/mission-control)** is a local dashboard for Claude Code sessions, approval requests, and decision records.
+
+## Open-source contributions
+
+- **[CodeConverter](https://github.com/icsharpcode/CodeConverter):** Merged VB.NET-to-C# fixes for [multiline string escaping](https://github.com/icsharpcode/CodeConverter/pull/1292), [XML attribute-axis reads](https://github.com/icsharpcode/CodeConverter/pull/1293), and [ByRef updates in loop conditions](https://github.com/icsharpcode/CodeConverter/pull/1294).
+- **[Toolism](https://github.com/rakeshnitb23/toolism):** Merged contributions for [per-tool diff previews](https://github.com/rakeshnitb23/toolism/pull/80), [MCP input for diff previews](https://github.com/rakeshnitb23/toolism/pull/109), and [persistent Anthropic token counts](https://github.com/rakeshnitb23/toolism/pull/111).
 
 ## How I work
 
